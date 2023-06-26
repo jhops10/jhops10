@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Paulo! 👋
 <br>
-<p align="start">Desenvolvedor Front-End em Formação! <br> Estudante das tecnologias Front-End desde Janeiro de 2023. <br> Sou dedicado e comunicativo, estou em busca de uma oportunidade para aprimorar meus conhecimentos<br> e estou animado para iniciar minha jornada profissional.</p>
+<p align="start">Desenvolvedor Front-End em Formação! <br> Estou em busca de uma oportunidade para aprimorar meus conhecimentos e estou animado para iniciar minha jornada profissional.</p>
 <p align="center"> </p>
 
 <br>
