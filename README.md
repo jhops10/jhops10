@@ -3,10 +3,6 @@
 <p align="start">Desenvolvedor Backend<br>
 <p>Para conhecer um pouco mais sobre mim: </br></p>
 
-[Meu Portfolio](https://portfoliojoaowais.vercel.app/)
-
-
-<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhops10/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaowais/)
