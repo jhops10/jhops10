@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Paulo! 👋
 <br>
-<p align="start"><b>Desenvolvedor Backend</b> 🖥️<br>
+<p align="start"><h3><b>Desenvolvedor Backend</b> 🖥️<br></h3>
 <p><i>Para conhecer um pouco mais sobre mim: </i> </br></p>
 
 
