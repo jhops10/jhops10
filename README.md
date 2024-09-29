@@ -1,7 +1,7 @@
 ## Olá, meu nome é João Paulo! 👋
 <br>
-<p align="start">Desenvolvedor Backend<br>
-<p>Para conhecer um pouco mais sobre mim: </br></p>
+<p align="start"><b>Desenvolvedor Backend</b> 🖥️<br>
+<p><i>Para conhecer um pouco mais sobre mim: </i> </br></p>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhops10/)
