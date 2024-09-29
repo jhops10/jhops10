@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Paulo! 👋
 <br>
-<p align="start">Desenvolvedor Front-End<br> Estou em busca de uma oportunidade para aprimorar meus conhecimentos e estou animado para iniciar minha jornada profissional.</p>
+<p align="start">Desenvolvedor Backend<br> Estou em busca de uma oportunidade para aprimorar meus conhecimentos e estou animado para iniciar minha jornada profissional.</p>
 <p>Para conhecer um pouco mais sobre mim: </br></p>
 
 [Meu Portfolio](https://portfoliojoaowais.vercel.app/)
