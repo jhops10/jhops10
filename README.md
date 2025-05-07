@@ -22,6 +22,8 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img align="center" alt="junit" src="https://camo.githubusercontent.com/de1597fc68a18a79623b6cc61caf2f8cab56fd152df1fa23e2c3c04b2db11bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a556e69742d3235413136323f7374796c653d666f722d7468652d6261646765266c6f676f3d4a556e697435266c6f676f436f6c6f723d7768697465">
+        <img align="center" alt="mockito" src="https://camo.githubusercontent.com/a449d2490ab506d2fe44601e7bbaa2e5912e6ffd89eade8ec88c0fdd184a9bdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f636b69746f2d4646434132383f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d626c61636b">
     <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     
