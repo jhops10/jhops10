@@ -10,7 +10,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhops10&layout=compact)](https://github.com/jhops10)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhops10&layout=compact)](https://github.com/jhops10) -->
 
 
 
