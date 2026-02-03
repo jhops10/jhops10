@@ -1,6 +1,8 @@
 ## Olá, meu nome é João Paulo! 👋
+#### Desenvolvedor Backend com foco na linguagem Java e Ecossistema Spring / Spring Boot 
+Cursando Análise e Desenvolvimento de Sistemas 🖥️
 <br>
-<p align="start"><h3><b>Desenvolvedor Backend</b> 🖥️<br></h3>
+
 <p><i>Para conhecer um pouco mais sobre mim: </i> </br></p>
 
 
